@@ -10,8 +10,13 @@ shopping cart function.
 Actors: customer
 
 Functionality:
+
 Customers can sign up & log in
+
 Customers can add products to a shopping cart
+
 Customers can get automatic email confirmation
+
 Customers can view their orders checkout and order history
+
 Customer can use credit card to pay for their order
